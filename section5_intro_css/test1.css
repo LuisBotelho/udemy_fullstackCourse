@@ -1,0 +1,19 @@
+
+
+h1{
+    color: rgba(111, 199, 150, 1);
+    border: 5px solid red;
+}
+h2{
+    color: rgba(111, 199, 150, 1);
+}
+li{
+    color: rgba(111, 199, 150, 1);
+    background: rgba(0, 0, 0, 1);
+}
+body{
+    /* background: url(https://image.freepik.com/free-vector/black-white-zigzag-pattern_23-2147494960.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background: pink;
+}
